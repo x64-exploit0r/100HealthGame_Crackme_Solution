@@ -18,5 +18,5 @@ I have uploaded my crackme on [Crackmes.one](https://crackmes.one/crackme/65ae9d
 
 4: "lea edx, dword ptr ds:[eax+A]" This line loads the effective address of the memory location that is a distance A (10 in hexadecimal) away from the memory location pointed to by the eax register into the edx register. 
 
-## Note: *When you will first open the crackme you will see "lea edx, dword ptr ds:[eax-A]" here eax is being decreased by A (a.k.a 10)*.
+## Note: When you will first open the crackme you will see "lea edx, dword ptr ds:[eax-A]" here eax is being decreased by A (a.k.a 10).
 
