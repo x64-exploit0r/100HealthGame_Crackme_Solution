@@ -16,5 +16,5 @@ I have uploaded my crackme on [Crackmes.one](https://crackmes.one/crackme/65ae9d
 ### 3: "mov dword ptr ss:[ebp-C], ecx" This line moves the value in the ecx register to the memory location pointed to by the ebp register minus 12 (C in hexadecimal is 12 in decimal). This is typically used to store a function's parameter or local variable.
 
 
-### 4: "lea edx, dword ptr ds:[eax+A]" This line loads the effective address of the memory location that is a distance A (10 in hexadecimal) away from the memory location pointed to by the eax register into the edx register. **When you will first open the crackme you will see "lea edx, dword ptr ds:[eax-A]" here eax is being decreased by A (a.k.a 10)**.
+### 4: "lea edx, dword ptr ds:[eax+A]" This line loads the effective address of the memory location that is a distance A (10 in hexadecimal) away from the memory location pointed to by the eax register into the edx register. *When you will first open the crackme you will see "lea edx, dword ptr ds:[eax-A]" here eax is being decreased by A (a.k.a 10)*.
 
