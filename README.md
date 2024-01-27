@@ -1,7 +1,7 @@
 # 100HealthGame_Crackme_Solution 
 I have uploaded my crackme on [Crackmes.one](https://crackmes.one/crackme/65ae9d45eef082e477ff5f98)
 
-## Solution:
+# Solution:
 
 1: Everything in the game is happing in this part of the code 
 
